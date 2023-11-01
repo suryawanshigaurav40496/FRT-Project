@@ -23,3 +23,34 @@ Azure Devops
 
 # IDE Used
 Vs Code
+
+# Project Steps & Results:
+1. This is the initial Page.
+![screenshot1-myfirstpage](https://github.com/suryawanshigaurav40496/FRT-Project/assets/121223160/6ce7dea9-3771-42d8-93f8-7603aaab39ae)
+
+2. We done changes in Vs Code.
+![changes in vs code](https://github.com/suryawanshigaurav40496/FRT-Project/assets/121223160/60c90889-1a8a-4a22-9206-2f5e45401bf8)
+
+3. Pipeline Triggered
+![pipe line createdd](https://github.com/suryawanshigaurav40496/FRT-Project/assets/121223160/1243c99c-b2d1-41d3-ba24-05fe3dbbd865)
+
+4. Code Deployed.
+   ![release](https://github.com/suryawanshigaurav40496/FRT-Project/assets/121223160/a27f1c2c-4525-4364-847d-5b118ec25071)
+
+   ![releaseed](https://github.com/suryawanshigaurav40496/FRT-Project/assets/121223160/04bb3bbd-e408-478b-abb5-e7ca445a77c6)
+
+5. Changes are showing in Azure Repo.
+![changes in repo](https://github.com/suryawanshigaurav40496/FRT-Project/assets/121223160/092c7a12-b7ed-4d37-9e45-35f48c32bbc5)
+
+6. Finally chnages can be seen in our Website.
+![final output](https://github.com/suryawanshigaurav40496/FRT-Project/assets/121223160/fe77c18e-8c2b-4dd9-86b4-bb67ae66b871)
+
+
+
+
+
+
+
+
+
+
